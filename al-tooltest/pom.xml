@@ -6,4 +6,12 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>al-tooltest</artifactId>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>al.practice</groupId>
+		<artifactId>al-base</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
